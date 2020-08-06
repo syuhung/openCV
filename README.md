@@ -1,2 +1,2 @@
 # openCV
-openCV学习避机
+openCV学习笔记
